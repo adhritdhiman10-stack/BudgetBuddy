@@ -1,0 +1,2 @@
+# BudgetBuddy
+AI Banking Assister 
